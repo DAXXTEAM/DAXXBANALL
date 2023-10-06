@@ -1,6 +1,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-# 𝗕𝗔𝗡 𝗔𝗟𝗟 𝗕𝗢𝗧 𓇽
+
+# DAXX BAN ALL BOT
+
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DAXXTEAM&repo=DAXXBANALL&theme=flag-india)
+
+
 
 - This is a Sudo Based Members Banning Bot
  
