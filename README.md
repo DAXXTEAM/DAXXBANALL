@@ -25,7 +25,7 @@
 <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DAXXTEAM&show_icons=true&locale=en&layout=compact" alt="DAXXTEAM" /></p>
 
 
-# Deploy To Heroku 🚀
+# Deploy To Heroku 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/DAXXTEAM/DAXXBANALL)
 
 ### Contact :
