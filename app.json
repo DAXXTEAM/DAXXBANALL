@@ -1,0 +1,35 @@
+{
+   "name": "𝐃𝐀𝐗𝐗 𝐁𝐀𝐍 𝐀𝐋𝐋 𝐁𝐎𝐓",
+   "description": "Telegram Bot",
+   "repository": "https://github.com/DAXXTEAM/DAXXBANALL",
+   "logo": "",
+   "image": "heroku/python",
+   "env": {
+      "API_ID": {
+        "description": "𝗙𝗶𝗹𝗹 𝗬𝗼𝘂𝗿 𝗔𝗣𝗜 𝗶𝗱( My.telegram.org)",
+        "value": "",
+        "required": true
+      },
+      "API_HASH": {
+        "description": "𝗙𝗶𝗹𝗹 𝗬𝗼𝘂𝗿 𝗔𝗣𝗜 𝗛𝗔𝗦𝗛 (My.telegram.org)",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN": {
+        "description": "𝗕𝗼𝘁 𝗧𝗼𝗸𝗲𝗻",
+        "value": "",
+        "required": true
+      },      
+      "SUDO": {
+            "description": "𝗢𝗪𝗡𝗘𝗥 𝗜𝗗",
+            "value": "",
+            "required": true  
+      }
+   },
+   "formation": {
+            "worker": {
+                "quantity": 1,
+                "size": "eco"
+            }
+        }
+  }
